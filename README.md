@@ -240,10 +240,10 @@ o	You Aren't Gonna Need It (YAGNI)
 
 ***•	Chrome DevTools***
 
-***• wordpress with Elementor ***
+***• wordpress with Elementor***
 
 
-***• Figma for ui / ux ***
+***• Figma for ui / ux***
 
 
 
