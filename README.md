@@ -238,6 +238,20 @@ o	You Aren't Gonna Need It (YAGNI)
 ***•	WebAssembly***
 
 
+***•	Chrome DevTools***
+
+***• wordpress with Elementor ***
+
+
+***• Figma for ui / ux ***
+
+
+
+
+
+
+
+
 # Frontend dev/engineer (Job Focus)
 
 ![Ajouter un sous-titre (1)](https://user-images.githubusercontent.com/98220932/209945391-d3cdd785-d704-4826-a5cc-0005155cce8b.png)
