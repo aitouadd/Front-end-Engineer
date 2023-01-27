@@ -246,6 +246,9 @@ o	You Aren't Gonna Need It (YAGNI)
 ***• Figma for ui / ux***
 
 
+***• Knowledge of CI/CD processes***
+
+
 
 
 
