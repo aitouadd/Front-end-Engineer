@@ -243,6 +243,9 @@ o	You Aren't Gonna Need It (YAGNI)
 ***• wordpress with Elementor***
 
 
+***•  Version Control and Collaboration***
+
+
 ***• Figma for ui / ux***
 
 
